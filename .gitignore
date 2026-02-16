@@ -1,0 +1,15 @@
+# Spark/Hadoop logs e temporários
+checkpoint/
+metastore_db/
+spark-warehouse/
+*.lzo
+*.crc
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Dados locais (se você não quiser subir o Parquet)
+ranking_final_teste/
