@@ -27,7 +27,7 @@ O projeto foi estruturado seguindo o padrão de camadas para garantir a organiza
 ### Passo a Passo
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/projeto-nomes-ibge.git](https://github.com/seu-usuario/projeto-nomes-ibge.git)
+   git clone https://github.com/danielandradestudy/projeto-nomes-ibge.git
 ### 2. Instalar as dependências extras
 Após acessar o Jupyter Notebook, execute a célula inicial (ou abra um terminal dentro do container) para garantir que as bibliotecas de visualização e consumo de API estejam presentes:
 
